@@ -1,4 +1,4 @@
-# Day 2 of 51, Tuesday 20 June
+# Day 2 of 51, Tuesday 21 June
 
 ## Today
 
@@ -19,6 +19,8 @@ Here is how this आखेट works:
 
 TODO steps ... ARC to describe this.
 Akhaet is a framework to find jobs and communicate without thinking too much and priortising action over thinking 
+
+
 The framework really worked for EKAGi and helped him land many projects and jobs during his career
 Ekagi says a lot of stuff written on job description is made up so focus on implementing Akhaet framework
 
@@ -42,7 +44,10 @@ shorten day text .. month text .. throughtout column
 
 ## Things Programmers Must Do Well
 
-TODO .. ARC to expand on this later
+TODO .. ARC to expand on this later.
+1. Research search 
+1. COmmunicate with team
+1. Write Actual code
 
 ## Akhat Rules
 
