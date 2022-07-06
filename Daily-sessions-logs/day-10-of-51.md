@@ -1,0 +1,33 @@
+#  Day 10 of 51, Tuesday 6 July 2022
+
+## Notes
+Image grabber extension worked fine when I tried it not working during Demo to EKAGI
+
+TASK
+Learn to debugg -- read official documentation got little help
+
+Breakpoint set -- execute code using break points
+
+
+Step through code execturion
+
+Actual Steps undertaken
+Reading official page-- https://developer.chrome.com/docs/extensions/mv3/tut_debugging/
+Following link-- https://developer.chrome.com/docs/devtools/ -- devtools
+
+Debug javascript 
+https://developer.chrome.com/docs/devtools/javascript/
+Following official demo
+
+How to insert a breakpoint in VS code
+To set a breakpoint in source code, click in the far left margin next to a line of code. You can also select the line and press F9, select Debug > Toggle Breakpoint, or right-click and select Breakpoint > Insert breakpoint. The breakpoint appears as a red dot in the left margin.
+
+How do you run a line by line code in Visual Studio?
+You can step through the code in a number of different methods, you can step through line by line using F11, step over using F10 or step out using (Shift+F11). Step Through: Each and every line of code executed will be debugged
+
+The image grabber works fine now I did not change a single line of code I dont even understand what the problem was
+
+
+
+## Questions
+When to use a semicolon and where comma and where nothing in javascript
