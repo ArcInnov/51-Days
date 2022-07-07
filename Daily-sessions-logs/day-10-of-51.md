@@ -27,7 +27,22 @@ You can step through the code in a number of different methods, you can step thr
 
 The image grabber works fine now I did not change a single line of code I dont even understand what the problem was
 
+## time slots - ist for DJing sessions
+1:30-2:30 AM
+6:30-7:30 AM
+4:30-5:30 PM
+9:30-10:30 PM
 
+
+Debugging in chrome console is cumbersome
+
+## Keyboard Shortcut
+Reiteration of the point that ARC needs to have 200-300 keyboard shortcuts as muscle memory
+
+How to reposition a line (Up or down)
+Hold the cursor on the line
+Press left alt + Up/down arrow
+Note : It doesnot work with right arrow
 
 ## Questions
 When to use a semicolon and where comma and where nothing in javascript
