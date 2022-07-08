@@ -1,4 +1,4 @@
-#  Day 10 of 51, Tuesday 6 July 2022
+#  Day 10 of 51, Wednesday 6 July 2022
 
 ## Notes
 Image grabber extension worked fine when I tried it not working during Demo to EKAGI
