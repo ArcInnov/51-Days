@@ -1,4 +1,4 @@
-#  Day 12 of 51, Friday 8 July 2022
+# Bailout  Day 12 of 51, Friday 8 July 2022
 
 ## Pre-Session 
 

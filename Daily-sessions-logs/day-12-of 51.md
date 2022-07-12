@@ -1,4 +1,4 @@
-# Day 12 
+# Day 12 of 51, Monday
 
 ## Running Notes
 Repository
