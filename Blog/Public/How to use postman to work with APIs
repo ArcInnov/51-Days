@@ -8,8 +8,66 @@ I had very little clue to his question what are getrequests, parameters,headers 
 
 A google search of the title 'how to use postman to work with Api' lands you to official documentation,
 
-Getting started > learning Centre
+## Getting started > learning Centre
 
-Introduction
+### Introduction
 
+### Installing and Updating
+Installing
+ Installing postman for Windows
+ There is web version installation of postman too but I am skipping over that section since I wasnt to focus on installing for th windows version for the moment
+ After downnloading > Run exe file by double clicking > create account (opens browser) 
+ Creating a free account with Postman (EKAGI said it is free for individuals and has paid plans for enterprises)
+ 
+Updating 
+ Shown under head settings > above release notes
+
+### Navigating Postman
+1. Header
+ Enables you to create workspaces, access reports, explore the public API network, search in Postman, view sync status and notifications, and access your settings, account, and Postman plan.
+ Search Postman - Ctrl+k keyboard shortcut for search
+
+1. Sidebar
+ The Postman sidebar provides access to the fundamental elements of Postman:
+    1. Collections
+    1. APIs
+    1. Environments
+    1. Mock servers
+    1. Monitors
+    1. History
+ Keyboard shortcuts
+ 1. For collections, folders and requests inside a collection, and requests in History, you can select more than one element at a time. Press and hold ⌘ or Ctrl, then select the desired elements. 
+ 1. For elements that are next to each other, press and hold Shift, then select the desired elements. 
+ 1. To select more than one request, press and hold ⌘ or Ctrl, then select the requests.
+ 
+1. Main Work Area
+ Tabs
+  1. Keyboard shortcut To open a new tab - ctrl+t
+
+ Right sidebar
+  
+ Environment selector and environment quick look
+  The environment selector enables you to choose which environment to use in your work. Select an environment from the menu to set it as the active environment, which gives you access to the variables in that environment
+
+1. Footer
+ The footer on the bottom of Postman enables you to find and replace text, open the console, capture requests and cookies, open Bootcamp, and access several other tools
+
+### Sending your first request
+APIs provide a structured way for one application to access the capabilities of another application.
+A client application (like a mobile app) sends a request to the server, and after the request processes the server returns a response to the client.
+A request includes the URL of the API endpoint and an HTTP request method. The method indicates the action you want the API to perform. Here are some of the most common methods:
+    GET retrieves data from an API.
+    POST sends new data to an API.
+    PATCH and PUT update existing data.
+    DELETE removes existing data.
+
+Sending a request
+ Open new tab in workspace
+ Give url
+ Send request
+
+What happened ?
+ A get request was sent to an API server the server recieved, processed and returned a response the response was dislayed in response pane
+ 
+  
 
