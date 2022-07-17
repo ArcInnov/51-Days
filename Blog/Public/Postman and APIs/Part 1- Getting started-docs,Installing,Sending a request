@@ -1,4 +1,4 @@
-# How to use postman to work with APIs
+# Getting Started- Offical docs, Installing Postman And Sending a Request
 
 ## Sunday July 17, 2022
 
@@ -68,6 +68,7 @@ Sending a request
 
 What happened ?
  A get request was sent to an API server the server recieved, processed and returned a response the response was dislayed in response pane
- 
-  
+
+Part 2 
+Since I am a novice to postman (as novice as you can get) I think just following the Documentation page will be a slow slow learning curve so I am going to try a simple project using postman
 
