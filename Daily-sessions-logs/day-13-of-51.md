@@ -32,6 +32,15 @@ Find a list of github profiles from there
 Make a list of git hub profiles that you might want to reach out in sub section of Akhaet
 Serves two puposes - you can test your exension on these profiles and you can reach out to them to get referrals.
 
+Changed the scope of Chrome Extension (AI powered)
+From Extension working on any page and all images to extension working only on profile photos of github users
+(I prefer an extension that executes funcionality only when a image is clicked/selected manually)
+
+Resources 
+1. Scrimba do all beginner level courses
+1. Neog Camp (a boot camp) - https://neog.camp/
+1. Tanay Pratap  - https://twitter.com/tanaypratap
+
 
 
 
