@@ -1,4 +1,4 @@
-# Day 12 of 51, Monday 18 July 2022
+# Day 13 of 51, Monday 18 July 2022
 
 ## Running Notes Session 1
 Discussion over what to do about career prospects and alternative means of working
